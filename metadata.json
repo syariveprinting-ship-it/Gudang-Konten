@@ -1,0 +1,7 @@
+{
+  "name": "GUDANG KONTEN PRO v1",
+  "description": "A high-end AI voice generation platform powered by Gemini. Create professional voice-overs with various personalities and immersive visual themes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
